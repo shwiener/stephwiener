@@ -1,0 +1,39 @@
+h1 {
+	color: darkred;
+}
+
+h3{
+	font-family: cursive;
+}
+
+ }
+
+ h1 {
+ 	padding-top: 35px;
+ 	padding-right: 50px;
+ 	padding-bottom: 75px;
+ 	padding-left: 100px;
+ }
+img {
+	border-radius: 110px;
+
+}
+
+li {font font-style: italic;}
+}
+
+h2{align-content: center;
+	font-language-override: 40px;
+	padding-bottom: 5px;
+	padding-left: 160px;
+	border-spacing: 30px;
+	padding-top: 50px;
+	font-size: 35px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-left: 50px
+
+}
+
+.front {
+	background-color: lightsalmon;
+}
